@@ -20,7 +20,7 @@ The **SynXR (Synesthesia XR) Lab** explores Human-Computer Interaction (HCI) at 
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Shuo Yan**, an associate Professor at [School of New Media Art & Design][reference][reference]: https://art.buaa.edu.cn/index.htm / State Key Laboratory of Virtual Reality Technology and Systems in Beihang University.
+Hi, I am **Shuo Yan**, an associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in Beihang University.
 Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
