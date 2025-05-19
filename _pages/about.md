@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-SynXR Lab'></span>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. 
+The SynXR (Synesthesia XR) Lab explores Human-Computer Interaction (HCI) at the intersection of synesthetic experiences and performance art in extended reality (XR) environments. Through an interdisciplinary approach combining Design, Computer Science, Psychology, and Performing Arts, the lab investigates how multi-sensory integration and cross-reality interactions can enhance human perception, creativity, and artistic expression in digital spaces.
+
+We aim to design and evaluate innovative methods for sensory augmentation and cross-modal mapping in immersive media, with a focus on enhancing user experience through design principles. Our research contributes to both theoretical frameworks and practical applications of XR interactions, investigating how these new experiences impact user perception, engagement, and creative expression.
 
 <span class='anchor' id='about-me'></span>
 
