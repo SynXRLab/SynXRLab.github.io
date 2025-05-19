@@ -24,8 +24,8 @@ author:
   name             : "SynXR Lab"
   avatar           : "images/WechatIMG3333.jpg"
   bio              : "SynXR Lab is a research group founded by Assoc. Prof. Shuo Yan in Beihang University, focusing on immersive XR interaction interfaces design."
-  location         : "School of New Media Art and Design & State Key Laboratory of Virtual Reality Technology and Systems,Beihang University, Beijing, China"
-  employer         :
+  location         : "Beijing, China"
+  employer         : "Beihang University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "shuoyan@buaa.edu.cn"
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Shuo Yan"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-6015-4277"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
