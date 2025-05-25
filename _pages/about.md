@@ -27,7 +27,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 👩🏻‍🏫 Teaching
 - VR Interaction Design 虚拟现实交互设计（本科）
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Information Visualization Design 信息可视化设计（本科）
+- Human-Computer Interaction and User Experience Design 人机交互与用户体验设计（研究生）
+- Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
