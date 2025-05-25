@@ -37,14 +37,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>(https://www.youtube.com/watch?v=FvPCVOcMXtc)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
 
 Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
-[**Project**][https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://www.youtube.com/watch?v=FvPCVOcMXtc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
 </div>
 </div>
