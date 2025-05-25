@@ -44,7 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
-[**Project**](https://www.youtube.com/watch?v=FvPCVOcMXtc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Demo**](https://www.youtube.com/watch?v=FvPCVOcMXtc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
 - We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
 </div>
 </div>
