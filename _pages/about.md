@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality] (https://dl.acm.org/doi/full/10.1145/3706599.3720253)
