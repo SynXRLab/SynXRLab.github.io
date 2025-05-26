@@ -40,13 +40,12 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
 
 Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
-[**Project Demo**](https://www.youtube.com/watch?v=FvPCVOcMXtc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper Link**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
-<strong><font color="#FF0000"><a href="URL">链接文字</a></font></strong>
+[**Project**](https://www.youtube.com/watch?v=FvPCVOcMXtc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
 - We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
 </div>
 </div>
@@ -54,12 +53,25 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+- We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
+</div>
+</div>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+- We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
+</div>
+</div>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+- We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
 </div>
 </div>
 
