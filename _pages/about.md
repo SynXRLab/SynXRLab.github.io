@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+<span style="background-color: #FFE4E1;">粉色背景</span>[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
 
 Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
