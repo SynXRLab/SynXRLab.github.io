@@ -20,10 +20,11 @@ The **SynXR (Synesthesia XR) Lab** explores Human-Computer Interaction (HCI) at 
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Shuo Yan**, an associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in Beihang University.
-Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I am **Shuo Yan**, an associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in Beihang University. I received my Ph.D. in Intelligent Digital Performance from Beijing Institute of Technology, during which I was a visiting Ph.D. student in the Fluid Interfaces at MIT Media Lab. I received the Outstanding Doctoral Dissertation Award from China Simulation Federation, the Outstanding Graduation Project Supervisor Award from Beijing Higher Education Institutions, and the Xiaomi Young Scholar Award.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on creating novel immersive XR experiences. I have published more than 30 papers and 10 artworks at the top international HCI/VR AR conferences.
+
+⭐ Looking for highly motivated students and research interns. 招收硕士生及暑期/日常学生科研，有意请联系本人邮箱
 
 # 👩🏻‍🏫 Teaching
 - VR Interaction Design 虚拟现实交互设计（本科）
