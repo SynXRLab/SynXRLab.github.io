@@ -82,16 +82,23 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024 Mentor Award,  
+- 2023 Winner, Second Prize of Outstanding Innovation Cases of Aesthetic Education in Beijing Universities，Beijing Education Commission
+- 2023 Mentor Award, BUAA Excellent Master's Thesis BUAA
+- 2022 Grant, $14000 Research Funding from Xiaomi Youth Scholarship Xiaomi
+- 2022 Grant, $7000 Research Funding from Social Science Youth Scholarship BUAA
+- 2021-2022 Mentor Award, Outstanding Undergraduate Graduation Design (Thesis)，Beijing Education Commission
+- 2019 Winner, Third Prize of "Teaching Design" in the 7th National Collegiate and Universities Digital Art and Design Competition Ministry of Industry and Information Technology (MIIT)
+- 2017 Winner, Outstanding Doctoral Dissertation Award of China Simulation Federation(CSF)
+- 2015 Fellowship, National PhD Scholarship in China Ministry of Education of China
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.06, the dance research Institute of the National Arts Academy of China. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Service
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
