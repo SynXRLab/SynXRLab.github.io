@@ -32,9 +32,9 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Human-Computer Interaction and User Experience Design 人机交互与用户体验设计（研究生）
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
-# 🔔 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔔 News & Travels ✈️
+- May, 2025 · CHI Conference, 📍Yokohama, Japan
+ 
 
 # 📖 Publications 
 
