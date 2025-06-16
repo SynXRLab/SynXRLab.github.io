@@ -34,8 +34,6 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 🔔 News 
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
-  ✈️**Travels**
-- May, 2025 · CHI Conference, 📍Yokohama, Japan
  
 
 # 📖 Publications 
