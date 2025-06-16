@@ -81,7 +81,7 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - 2024 Mentor Award,  
 - 2023 Winner, Second Prize of Outstanding Innovation Cases of Aesthetic Education in Beijing Universities，Beijing Education Commission
 - 2023 Mentor Award, BUAA Excellent Master's Thesis BUAA
