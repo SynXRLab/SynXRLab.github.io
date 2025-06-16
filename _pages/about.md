@@ -33,8 +33,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News 
-
-
+- May, 2025 · CHI Conference, 📍Yokohama, Japan
   ✈️**Travels**
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
  
