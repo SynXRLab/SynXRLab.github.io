@@ -32,7 +32,10 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Human-Computer Interaction and User Experience Design 人机交互与用户体验设计（研究生）
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
-# 🔔 News & Travels ✈️
+# 🔔 News 
+
+
+  ✈️**Travels**
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
  
 
@@ -98,7 +101,8 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
 # 💬 Invited Talks
 - 2025.06, the dance research Institute of the National Arts Academy of China. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2021.03, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2019.09, TEDxChengdu
 
 # 💻 Service
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
