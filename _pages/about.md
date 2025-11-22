@@ -39,7 +39,20 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**From Body to Interface: Co-design Gesture-based Interactions with Experts for Immersive Experiences**](https://iasdr2025.org/)
+
+Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
+
+<a href="https://iasdr2025.org" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**Paper**</a>
+- We developed a co-design framework and apply it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">IASDR 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
@@ -51,8 +64,6 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 - We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
