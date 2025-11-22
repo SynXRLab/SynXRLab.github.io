@@ -125,7 +125,7 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- 2025.06, the dance research Institute of the National Arts Academy of China. 
+- 2025.11, [Research on Innovative Design of Human-Computer Collaborative Intelligent Performance](https://mp.weixin.qq.com/s/Im6Z4NIer50IrrRqCpHwpA), Dance Research Institute, China National Academy of Arts.  
 - 2021.03, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - 2019.09, TEDxChengdu
 
