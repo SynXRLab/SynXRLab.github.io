@@ -38,7 +38,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IASDR 2025</div><div class="badge2">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**From Body to Interface: Co-design Gesture-based Interactions with Experts for Immersive Experiences**](https://iasdr2025.org/)
@@ -51,7 +51,7 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IASDR 2025</div><div class="badge2">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach**](https://iasdr2025.org/)
@@ -83,7 +83,7 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
@@ -92,6 +92,28 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 - We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">SIGGRAPH ASIA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Achi Mukua Experience Space” —— A Multi-Player Immersive Experience of Yunnan ICH Dance**](https://dl.acm.org/doi/10.1145/3610591.3616431))
+
+Siyu Luo, **Shuo Yan**
+
+[**Video**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/10.1145/3610591.3616431)
+- We develops design methods for ICH dance that combine social presence, collaborative multiplayer interaction, and emotional feedback to enable the co-creation immersive experiences.
+</div>
+</div>
+
+
+
+
+
+
+
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
