@@ -54,13 +54,13 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach**](https://iasdr2025.org/)
 
-Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
+Fengyi Yan, **Shuo Yan**, Wensi Dai, Likun Zhao and Zixiao Liu
 
-<a href="https://www.youtube.com/watch?v=FvPCVOcMXtc" style="text-decoration: none; color: #00369F;">**Video**</a>
-<a href="https://dl.acm.org/doi/full/10.1145/3706599.3720253" style="text-decoration: none; color: #00369F;">**Paper**</a>
-- We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
+<a href="https://iasdr2025.org" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**to be published**</a>
+- We proposed a comprehensive Role Interpretation Framework based on three core interpersonal dimensions—Dominance, Sociability, and Task Orientation—to systematically capture and explain user roles in MR collaboration. 
 </div>
 </div>
 
