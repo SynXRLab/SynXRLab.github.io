@@ -33,9 +33,8 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News 
-- Nov, 2025 · ICXR Conference <a href="https://iasdr2025.org">**XR Gallery Chair**</a>, 📍Qingdao, China
+- Nov, 2025 · ICXR Conference <a href="https://icxr.net/2025/callForXRGallery.html">**XR Gallery Chair**</a>, 📍Qingdao, China
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
- 
 
 # 📖 Publications 
 
@@ -47,7 +46,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
 <a href="https://iasdr2025.org" style="text-decoration: none; color: #00369F;">**Video**</a>
-<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**Paper**</a>
+<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**to be published**</a>
 - We developed a co-design framework and apply it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience.
 </div>
 </div>
