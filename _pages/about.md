@@ -20,7 +20,7 @@ The **SynXR (Synesthesia XR) Lab** explores Human-Computer Interaction (HCI) at 
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Shuo Yan**, an associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in [Beihang University](https://www.buaa.edu.cn/). I received my Ph.D. in Intelligent Digital Performance from Beijing Institute of Technology, during which I was a visiting Ph.D. student in the Fluid Interfaces at [MIT Media Lab](https://www.media.mit.edu/). I received the Outstanding Doctoral Dissertation Award from China Simulation Federation, the Outstanding Graduation Project Supervisor Award from Beijing Higher Education Institutions, and the Xiaomi Young Scholar Award.
+Hi, I am **Shuo Yan**, an Associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in [Beihang University](https://www.buaa.edu.cn/). I received my Ph.D. in Intelligent Digital Performance from Beijing Institute of Technology, during which I was a visiting Ph.D. student in the Fluid Interfaces at [MIT Media Lab](https://www.media.mit.edu/). I received the Outstanding Doctoral Dissertation Award from China Simulation Federation, the Outstanding Graduation Project Supervisor Award from Beijing Higher Education Institutions, and the Xiaomi Young Scholar Award.
 
 My research focuses on creating novel immersive XR experiences. I have published more than 30 papers and 10 artworks at the top international HCI/XR conferences.
 
@@ -33,7 +33,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News 
-- Nov, 2025 · ICXR Conference (XR Gallery Chair), 📍Qingdao, China
+- Nov, 2025 · ICXR Conference <a href="https://iasdr2025.org">**XR Gallery Chair**</a>, 📍Qingdao, China
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
  
 
