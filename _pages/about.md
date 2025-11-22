@@ -22,7 +22,7 @@ The **SynXR (Synesthesia XR) Lab** explores Human-Computer Interaction (HCI) at 
 
 Hi, I am **Shuo Yan**, an associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in [Beihang University](https://www.buaa.edu.cn/). I received my Ph.D. in Intelligent Digital Performance from Beijing Institute of Technology, during which I was a visiting Ph.D. student in the Fluid Interfaces at [MIT Media Lab](https://www.media.mit.edu/). I received the Outstanding Doctoral Dissertation Award from China Simulation Federation, the Outstanding Graduation Project Supervisor Award from Beijing Higher Education Institutions, and the Xiaomi Young Scholar Award.
 
-My research focuses on creating novel immersive XR experiences. I have published more than 30 papers and 10 artworks at the top international HCI/VR AR conferences.
+My research focuses on creating novel immersive XR experiences. I have published more than 30 papers and 10 artworks at the top international HCI/XR conferences.
 
 ⭐ Looking for highly motivated students and research interns. 招收硕士生及暑期/日常学生科研，有意请联系本人邮箱
 
@@ -33,6 +33,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News 
+- Nov, 2025 · ICXR Conference (XR Gallery Chair), 📍Qingdao, China
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
  
 
@@ -50,6 +51,24 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 - We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+
+Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
+
+<a href="https://www.youtube.com/watch?v=FvPCVOcMXtc" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://dl.acm.org/doi/full/10.1145/3706599.3720253" style="text-decoration: none; color: #00369F;">**Paper**</a>
+- We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
