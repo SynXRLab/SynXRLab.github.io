@@ -39,7 +39,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**From Body to Interface: Co-design Gesture-based Interactions with Experts for Immersive Experiences**](https://iasdr2025.org/)
@@ -52,7 +52,7 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">IASDR 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><div class="badge">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**"If My Apple Can Talk": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
