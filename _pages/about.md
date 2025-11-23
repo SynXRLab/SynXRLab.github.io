@@ -22,7 +22,7 @@ The **SynXR (Synesthesia XR) Lab** explores Human-Computer Interaction (HCI) at 
 
 Hi, I am **Shuo Yan**, an Associate Professor at [School of New Media Art & Design](https://art.buaa.edu.cn/index.htm) / [State Key Laboratory of Virtual Reality Technology and Systems](https://vrlab.buaa.edu.cn/index.htm) in [Beihang University](https://www.buaa.edu.cn/). I received my Ph.D. in Intelligent Digital Performance from Beijing Institute of Technology, during which I was a visiting Ph.D. student in the Fluid Interfaces at [MIT Media Lab](https://www.media.mit.edu/). I received the Outstanding Doctoral Dissertation Award from China Simulation Federation, the Outstanding Graduation Project Supervisor Award from Beijing Higher Education Institutions, and the Xiaomi Young Scholar Award.
 
-My research focuses on creating novel immersive XR experiences. I have published more than 30 papers and 10 artworks at the top international HCI/XR conferences.
+My research focuses on creating novel immersive XR experiences. I have published more than 30 papers and 20 artworks at the top international HCI/XR conferences.
 
 ⭐ Looking for highly motivated students and research interns. 招收硕士生及暑期/日常学生科研，有意请联系本人邮箱
 
@@ -122,10 +122,10 @@ Xinyi Su, **Shuo Yan**
 
 # 😈 XR Demos
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/hand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Hands in Bloom: An Auditory-Accessible Immersive Experience Based on Chinese Sign Language Recognition and Gesture Tracking**](https://dl.acm.org/doi/10.1145/3610591.3616431)
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Hands in Bloom: An Auditory-Accessible Immersive Experience Based on Chinese Sign Language Recognition and Gesture Tracking**]
 
 Zhu Zhu, **Shuo Yan**
 
@@ -135,7 +135,17 @@ Zhu Zhu, **Shuo Yan**
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/hand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Bamboo Rhyme Craft: Immersive VR Bamboo Weaving through Coordinated Bimanual Gesture Interaction**]
+
+Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
+
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This project .
+</div>
+</div>
 
 
 
