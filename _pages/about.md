@@ -120,6 +120,20 @@ Xinyi Su, **Shuo Yan**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2022</div><img src='images/huaer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Generating Embodied Storytelling and Interactive Experience of China Intangible Cultural Heritage “Hua'er” in Virtual Reality**](https://dl.acm.org/doi/10.1145/3491101.3519761)
+
+Zixiao Liu, **Shuo Yan**, Yu Lu, Yuetong Zhao
+
+<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+- We proposed "Hua'er and the Youth," an interactive VR system integrating virtual avatar, participatory performance, and game-based knowledge acquisition for experiencing Hua'er performance.
+</div>
+</div>
+
+
+
 # 😈 XR Demos and Artworks
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/hand.png' alt="sym" width="100%"></div></div>
