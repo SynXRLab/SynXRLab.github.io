@@ -115,7 +115,7 @@ Siyu Luo, **Shuo Yan**
 
 Xinyi Su, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=bero8nW8BW8) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.youtube.com/watch?v=bero8nW8BW8" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We developed a VR game for treating dark phobia in children aged 4-6 through participatory research involving children and stakeholders to identify design requirements.
 </div>
 </div>
