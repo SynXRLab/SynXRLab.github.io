@@ -32,6 +32,14 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Human-Computer Interaction and User Experience Design 人机交互与用户体验设计（研究生）
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
+# 👩🏻‍🏫 Research Foundations
+- National Natural Science Foundation of China, Project: Research on Affective Evaluation and Content-Based Adaptive Feedback for Intelligent Interactive Performance from Audience Perception(2019-2021)
+- Humanities and Social Science Fund of Ministry of Education of China, Project: XR-Based Intelligent Performance Perception Generation and Interaction Collaboration(2022-2025)
+- China National Arts Fund, Project: Construction of Digital Promotion Platform for Intangible Culture Heritage (ICH) ‘Hua er’
+- National Key Research and Development Program of China, No.202103AN080001-003 Project: Yunnan Minority Dance Digital Performance Creativity and Display System Based on VR
+- University-Industry Collaborative Education Program
+Project: A Study of User Perception Assessment in Virtual Reality Performances (Immersive VR Behavioral Psychoanalysis Lab)
+
 # 🔔 News 
 - Dec, 2025 · SIGGRAPH ASIA Conference, 📍HongKong, China
 - Nov, 2025 · ICXR Conference <a href="https://icxr.net/2025/callForXRGallery.html">**XR Gallery Chair**</a>, 📍Qingdao, China
@@ -139,5 +147,3 @@ Siyu Luo, **Shuo Yan**
 - 2021.03, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - 2019.09, TEDxChengdu
 
-# 💻 Service
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
