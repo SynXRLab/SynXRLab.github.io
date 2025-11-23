@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "XR Demos"
+    url: "/#-xr-demos"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
