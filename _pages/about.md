@@ -33,12 +33,11 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 👩🏻‍🏫 Research Foundations
-- National Natural Science Foundation of China, Project: Research on Affective Evaluation and Content-Based Adaptive Feedback for Intelligent Interactive Performance from Audience Perception(2019-2021)
-- Humanities and Social Science Fund of Ministry of Education of China, Project: XR-Based Intelligent Performance Perception Generation and Interaction Collaboration(2022-2025)
-- China National Arts Fund, Project: Construction of Digital Promotion Platform for Intangible Culture Heritage (ICH) ‘Hua er’
-- National Key Research and Development Program of China, No.202103AN080001-003 Project: Yunnan Minority Dance Digital Performance Creativity and Display System Based on VR
-- University-Industry Collaborative Education Program
-Project: A Study of User Perception Assessment in Virtual Reality Performances (Immersive VR Behavioral Psychoanalysis Lab)
+- Humanities and Social Science Fund of Ministry of Education of China, Project: **XR-Based Intelligent Performance Perception Generation and Interaction Collaboration**(2022-2025) 教育部人文社会科学基金规划项目
+- National Natural Science Foundation of China, Project: **Research on Affective Evaluation and Content-Based Adaptive Feedback for Intelligent Interactive Performance from Audience Perception**(2019-2021) 国家自然科学基金青年项目
+- China National Arts Fund, Project: **Construction of Digital Promotion Platform for Intangible Culture Heritage (ICH) ‘Hua er’** (2018-2020) 国家艺术基金传播推广项目
+- National Key Research and Development Program of China, Project: **Yunnan Minority Dance Digital Performance Creativity and Display System Based on VR** (2019-2024) 云南省科技厅重点研发项目（子课题）
+- Humanities and Social Science Fund of Ministry of Education of China, Project: **XR-Based Intelligent Performance Perception Generation and Interaction Collaboration**(2022-2025) 虚拟现实技术与系统全国重点实验室自主课题
 
 # 🔔 News 
 - Dec, 2025 · SIGGRAPH ASIA Conference, 📍HongKong, China
@@ -66,7 +65,6 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
 Fengyi Yan, **Shuo Yan**, Wensi Dai, Likun Zhao and Zixiao Liu
 
-<a href="https://iasdr2025.org" style="text-decoration: none; color: #00369F;">**Video**</a>
 <a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 - We proposed a comprehensive Role Interpretation Framework based on three core interpersonal dimensions—Dominance, Sociability, and Task Orientation—to systematically capture and explain user roles in MR collaboration. 
 </div>
@@ -80,7 +78,6 @@ Fengyi Yan, **Shuo Yan**, Wensi Dai, Likun Zhao and Zixiao Liu
 Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
 <a href="https://www.youtube.com/watch?v=FvPCVOcMXtc" style="text-decoration: none; color: #00369F;">**Video**</a>
-<a href="https://dl.acm.org/doi/full/10.1145/3706599.3720253" style="text-decoration: none; color: #00369F;">**Paper**</a>
 - We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors. 
 </div>
 </div>
@@ -93,8 +90,7 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
 Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
-[**Video**](https://www.youtube.com/watch?v=O6Cn66E263Y) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper**](https://ieeexplore.ieee.org/document/10765257)
+[**Video**](https://youtu.be/O6Cn66E263Y?si=XQUt2BcsvsAuqsQf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
 </div>
 </div>
@@ -108,7 +104,6 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 Siyu Luo, **Shuo Yan**
 
 [**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper**](https://dl.acm.org/doi/10.1145/3610591.3616431)
 - We develops design methods for ICH dance that combine social presence, collaborative multiplayer interaction, and emotional feedback to enable the co-creation immersive experiences.
 </div>
 </div>
