@@ -33,7 +33,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News 
-- Dec, 2025 · SIGGRAPH ASIA Conference, 📍Hongkong, China
+- Dec, 2025 · SIGGRAPH ASIA Conference, 📍HongKong, China
 - Nov, 2025 · ICXR Conference <a href="https://icxr.net/2025/callForXRGallery.html">**XR Gallery Chair**</a>, 📍Qingdao, China
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
 
@@ -46,8 +46,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
-<a href="https://iasdr2025.org" style="text-decoration: none; color: #00369F;">**Video**</a>
-<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**to be published**</a>
+<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 - We developed a co-design framework and apply it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience.
 </div>
 </div>
@@ -60,11 +59,10 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 Fengyi Yan, **Shuo Yan**, Wensi Dai, Likun Zhao and Zixiao Liu
 
 <a href="https://iasdr2025.org" style="text-decoration: none; color: #00369F;">**Video**</a>
-<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**to be published**</a>
+<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 - We proposed a comprehensive Role Interpretation Framework based on three core interpersonal dimensions—Dominance, Sociability, and Task Orientation—to systematically capture and explain user roles in MR collaboration. 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><div class="badge">CHI 2025</div><img src='images/P1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +78,6 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -88,8 +85,8 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
 Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
+[**Video**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/10765257)
 - We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
 </div>
 </div>
@@ -116,21 +113,11 @@ Siyu Luo, **Shuo Yan**
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
-- We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
-</div>
-</div>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper**](https://dl.acm.org/doi/full/10.1145/3706599.3720253)
-- We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
-</div>
-</div>
 
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
 
 # 🏆 Honors and Awards
 - 2024 Mentor Award,  
