@@ -90,7 +90,7 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 
 Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
-[**Video**](https://youtu.be/O6Cn66E263Y?si=XQUt2BcsvsAuqsQf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://youtu.be/O6Cn66E263Y?si=XQUt2BcsvsAuqsQf" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
 </div>
 </div>
