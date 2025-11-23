@@ -37,7 +37,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - National Natural Science Foundation of China, Project: **Research on Affective Evaluation and Content-Based Adaptive Feedback for Intelligent Interactive Performance from Audience Perception**(2019-2021) 国家自然科学基金青年项目
 - China National Arts Fund, Project: **Construction of Digital Promotion Platform for Intangible Culture Heritage (ICH) ‘Hua er’** (2018-2020) 国家艺术基金传播推广项目
 - National Key Research and Development Program of China, Project: **Yunnan Minority Dance Digital Performance Creativity and Display System Based on VR** (2019-2024) 云南省科技厅重点研发项目（子课题）
-- Humanities and Social Science Fund of Ministry of Education of China, Project: **XR-Based Intelligent Performance Perception Generation and Interaction Collaboration**(2022-2025) 虚拟现实技术与系统全国重点实验室自主课题
+- Independent Project of the State Key Laboratory of Virtual Reality Technology and Systems, Project: **Research on Innovative Design of Immersive Performance under Human-AI Collaboration**(2024-2026) 虚拟现实技术与系统全国重点实验室自主课题
 
 # 🔔 News 
 - Dec, 2025 · SIGGRAPH ASIA Conference, 📍HongKong, China
