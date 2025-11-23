@@ -120,7 +120,7 @@ Xinyi Su, **Shuo Yan**
 </div>
 </div>
 
-# 😈 XR Demos
+# 😈 XR Demos and Artworks
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/hand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
