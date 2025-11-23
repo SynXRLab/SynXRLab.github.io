@@ -32,7 +32,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Human-Computer Interaction and User Experience Design 人机交互与用户体验设计（研究生）
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
-# 👩🏻‍🏫 Research Foundations
+# 🧪 Research Foundations
 - Humanities and Social Science Fund of Ministry of Education of China, Project: **XR-Based Intelligent Performance Perception Generation and Interaction Collaboration**(2022-2025) 教育部人文社会科学基金规划项目
 - National Natural Science Foundation of China, Project: **Research on Affective Evaluation and Content-Based Adaptive Feedback for Intelligent Interactive Performance from Audience Perception**(2019-2021) 国家自然科学基金青年项目
 - China National Arts Fund, Project: **Construction of Digital Promotion Platform for Intangible Culture Heritage (ICH) ‘Hua er’** (2018-2020) 国家艺术基金传播推广项目
@@ -99,7 +99,7 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Achi Mukua Experience Space” —— A Multi-Player Immersive Experience of Yunnan ICH Dance**](https://dl.acm.org/doi/10.1145/3610591.3616431))
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Achi Mukua Experience Space” —— A Multi-Player Immersive Experience of Yunnan ICH Dance**](https://dl.acm.org/doi/10.1145/3610591.3616431)
 
 Siyu Luo, **Shuo Yan**
 
@@ -108,10 +108,31 @@ Siyu Luo, **Shuo Yan**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badg">CHI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**NoPhobiar: Designing A VR Game to Prevent Childhood Dark Phobia with Children and Stakeholders**](https://dl.acm.org/doi/10.1145/3544549.3585733)
+
+Xinyi Su, **Shuo Yan**
+
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We developed a VR game for treating dark phobia in children aged 4-6 through participatory research involving children and stakeholders to identify design requirements.
+</div>
+</div>
 
 # 😈 XR Demos
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Hands in Bloom: An Auditory-Accessible Immersive Experience Based on Chinese Sign Language Recognition and Gesture Tracking**](https://dl.acm.org/doi/10.1145/3610591.3616431)
+
+Zhu Zhu, **Shuo Yan**
+
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This project integrates Chinese Sign Language into immersive interaction, enhancing expressiveness and inclusivity while enabling barrier-free communication that bridges Deaf and hearing communities beyond natural gestures and instruction.
+</div>
+</div>
 
 
 
