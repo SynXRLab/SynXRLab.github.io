@@ -135,15 +135,16 @@ Zhu Zhu, **Shuo Yan**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/bamboo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/bamboo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Bamboo Rhyme Craft: Immersive VR Bamboo Weaving through Coordinated Bimanual Gesture Interaction**]
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Bamboo Rhyme Craft: Immersive VR Bamboo Weaving through Coordinated Bimanual Gesture Interaction**](https://asia.siggraph.org/2025/)
 
 Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 
 [**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This project .
+<a href="https://asia.siggraph.org/2025/" style="text-decoration: none; color: #00369F;">**To be published**</a>
+- Immersive VR with coordinated bimanual gesture interaction revives traditional bamboo weaving, blending cultural heritage with engaging, hands-on experiences to promote, preserve, and creatively reinterpret intangible traditions for wider audiences.
 </div>
 </div>
 
