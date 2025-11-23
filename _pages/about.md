@@ -33,6 +33,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Fundamentals of Digital Media Design 数字媒体设计基础（本科）
 
 # 🔔 News 
+- Dec, 2025 · SIGGRAPH ASIA Conference, 📍Hongkong, China
 - Nov, 2025 · ICXR Conference <a href="https://icxr.net/2025/callForXRGallery.html">**XR Gallery Chair**</a>, 📍Qingdao, China
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
 
