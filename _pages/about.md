@@ -170,7 +170,7 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 
 
 # 🏆 Honors and Awards
-- 2024 Mentor Award,  
+- 2024 Mentor Award  
 - 2023 Winner, Second Prize of Outstanding Innovation Cases of Aesthetic Education in Beijing Universities，Beijing Education Commission
 - 2023 Mentor Award, BUAA Excellent Master's Thesis BUAA
 - 2022 Grant, $14000 Research Funding from Xiaomi Youth Scholarship Xiaomi
@@ -181,11 +181,11 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 - 2015 Fellowship, National PhD Scholarship in China Ministry of Education of China
 
 # 📚 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2014.09, Visiting PhD Student, MIT Media Lab. 
+- *2012.09 - 2017.06, PhD in Software Engineering, Intelligent Digital Performance, BEIJING INSTITUTE OF TECHNOLOGY 
+- *2006.09 - 2010.06, Bachelor of DESIGN, Industrial Design / Business Administration (Double Degree), BEIJING INSTITUTE OF TECHNOLOGY
 
 # 💬 Invited Talks
-- 2025.11, [Research on Innovative Design of Human-Computer Collaborative Intelligent Performance](https://mp.weixin.qq.com/s/Im6Z4NIer50IrrRqCpHwpA), Dance Research Institute, China National Academy of Arts.  
-- 2021.03, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- <a href="https://mp.weixin.qq.com/s/Im6Z4NIer50IrrRqCpHwpA" style="text-decoration: none; color: #00369F;">**Research on Innovative Design of Human-Computer Collaborative Intelligent Performance**</a>, , Dance Research Institute, China National Academy of Arts.  
 - 2019.09, TEDxChengdu
 
