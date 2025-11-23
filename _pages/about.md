@@ -181,11 +181,11 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 - 2015 Fellowship, National PhD Scholarship in China Ministry of Education of China
 
 # 📚 Educations
-- *2013.09 - 2014.09, Visiting PhD Student, MIT Media Lab. 
-- *2012.09 - 2017.06, PhD in Software Engineering, Intelligent Digital Performance, BEIJING INSTITUTE OF TECHNOLOGY 
-- *2006.09 - 2010.06, Bachelor of DESIGN, Industrial Design / Business Administration (Double Degree), BEIJING INSTITUTE OF TECHNOLOGY
+- 2013.09 - 2014.09, Visiting PhD Student, MIT Media Lab. 
+- 2012.09 - 2017.06, PhD in Software Engineering, Intelligent Digital Performance, BEIJING INSTITUTE OF TECHNOLOGY 
+- 2006.09 - 2010.06, Bachelor of DESIGN, Industrial Design / Business Administration (Double Degree), BEIJING INSTITUTE OF TECHNOLOGY
 
 # 💬 Invited Talks
-- <a href="https://mp.weixin.qq.com/s/Im6Z4NIer50IrrRqCpHwpA" style="text-decoration: none; color: #00369F;">**Research on Innovative Design of Human-Computer Collaborative Intelligent Performance**</a>, , Dance Research Institute, China National Academy of Arts.  
+- 2025.11, <a href="https://mp.weixin.qq.com/s/Im6Z4NIer50IrrRqCpHwpA" style="text-decoration: none; color: #00369F;">**Research on Innovative Design of Human-Computer Collaborative Intelligent Performance**</a>, , Dance Research Institute, China National Academy of Arts.  
 - 2019.09, TEDxChengdu
 
