@@ -103,7 +103,7 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
 Siyu Luo, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.youtube.com/watch?v=HYASrRvVG4E" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We develops design methods for ICH dance that combine social presence, collaborative multiplayer interaction, and emotional feedback to enable the co-creation immersive experiences.
 </div>
 </div>
