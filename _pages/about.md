@@ -83,7 +83,7 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/beyondreality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience**](https://ieeexplore.ieee.org/document/10765257)
