@@ -110,7 +110,7 @@ Siyu Luo, **Shuo Yan**
 
 
 
-# 📖 XR Demos
+# 😈 XR Demos
 
 
 
@@ -133,7 +133,7 @@ Siyu Luo, **Shuo Yan**
 - 2017 Winner, Outstanding Doctoral Dissertation Award of China Simulation Federation(CSF)
 - 2015 Fellowship, National PhD Scholarship in China Ministry of Education of China
 
-# 📖 Educations
+# 📚 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
