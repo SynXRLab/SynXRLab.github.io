@@ -94,14 +94,14 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">SIGGRAPH ASIA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Achi Mukua Experience Space” —— A Multi-Player Immersive Experience of Yunnan ICH Dance**](https://dl.acm.org/doi/10.1145/3610591.3616431))
 
 Siyu Luo, **Shuo Yan**
 
-[**Video**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Paper**](https://dl.acm.org/doi/10.1145/3610591.3616431)
 - We develops design methods for ICH dance that combine social presence, collaborative multiplayer interaction, and emotional feedback to enable the co-creation immersive experiences.
 </div>
