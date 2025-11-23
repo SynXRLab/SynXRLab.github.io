@@ -89,11 +89,11 @@ Yu Wang, Yulu Lu, **Shuo Yan**, Xukun Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience**](https://ieeexplore.ieee.org/document/10765257)
 
 Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
-[**Video**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=O6Cn66E263Y) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Paper**](https://ieeexplore.ieee.org/document/10765257)
 - We designed an immersive narrative “Beyond Realities”, and implemented four CR interactions in it: Portal Passthrough, Virtual Guidance, Object Passthrough, and Bystander Avatar.
 </div>
@@ -115,7 +115,7 @@ Siyu Luo, **Shuo Yan**
 
 
 
-
+# 📖 XR Demos
 
 
 
