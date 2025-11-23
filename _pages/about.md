@@ -58,7 +58,7 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IASDR 2025</div><div class="badge2">IASDR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IASDR 2025</div><div class="badge2">IASDR 2025</div><img src='images/mr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach**](https://iasdr2025.org/)
@@ -135,7 +135,7 @@ Zhu Zhu, **Shuo Yan**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/hand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/bamboo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Bamboo Rhyme Craft: Immersive VR Bamboo Weaving through Coordinated Bimanual Gesture Interaction**]
