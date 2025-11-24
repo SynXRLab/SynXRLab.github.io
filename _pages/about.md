@@ -132,6 +132,24 @@ Zixiao Liu, **Shuo Yan**, Yu Lu, Yuetong Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ISMAR 2022</div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Effects of Augmenting Real-Time Biofeedback in An Immersive VR Performance**](https://dl.acm.org/doi/10.1145/3491101.3519761)
+
+Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
+
+<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+- We proposed a support system to investigate how performer's heart rate (HR) and audience's electroencephalogram (EEG) visualizations, and the corresponding auditory feedback, influence audience's sense of perception, immersion, and the narrative understanding.
+</div>
+</div>
+
+
+
+
+
+
+
 
 
 # 😈 XR Demos and Artworks
