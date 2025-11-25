@@ -190,7 +190,7 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 
 **Shuo Yan**, GangYi Ding, Hongsong Li, Ningxiao Sun, Yufeng Wu, Zheng Guan, Longfei Zhang, Tianyu Huang
 
-<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://www.youtube.com/watch?v=_nPOLL21Jh0" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We developed a real-time EEG-based system that monitors audience engagement during immersive theatre performances and triggers adaptive performing cues when engagement decreases, with experimental results from 48 participants demonstrating its effectiveness in regaining audience engagement.
 </div>
 </div>
@@ -222,12 +222,24 @@ Zhu Zhu, **Shuo Yan**
 
 Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=uH990ha-o50) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://asia.siggraph.org/2025/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 - Immersive VR with coordinated bimanual gesture interaction revives traditional bamboo weaving, blending cultural heritage with engaging, hands-on experiences to promote, preserve, and creatively reinterpret intangible traditions for wider audiences.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/bamboo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Dongba Script Character Construction Space”: VR science-based interactive experience of pictographs in intangible cultural heritage**](https://dl.acm.org/doi/10.1145/3610549.3614604)
+
+Yulu Lu, Wensi Dai, **Shuo Yan**
+
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://asia.siggraph.org/2025/" style="text-decoration: none; color: #00369F;">**To be published**</a>
+-  This work provided an immersive virtual reality experience based on the Dongba script of the Naxi people in Yunnan Province, China.
+</div>
+</div>
 
 
 
@@ -235,7 +247,7 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 
 
 # 🏆 Honors and Awards
-- 2024 Mentor Award  
+- 2024 Mentor Award
 - 2023 Winner, Second Prize of Outstanding Innovation Cases of Aesthetic Education in Beijing Universities，Beijing Education Commission
 - 2023 Mentor Award, BUAA Excellent Master's Thesis BUAA
 - 2022 Grant, $14000 Research Funding from Xiaomi Youth Scholarship Xiaomi
