@@ -236,10 +236,31 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 Yulu Lu, Wensi Dai, **Shuo Yan**
 
 [**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<a href="https://asia.siggraph.org/2025/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 -  This work provided an immersive virtual reality experience based on the Dongba script of the Naxi people in Yunnan Province, China.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2022</div><img src='images/dancedrum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Dance of Drums”: An Interactive Installation of ICH Dance Representation Through the Combination of Virtual and Reality**](https://dl.acm.org/doi/10.1145/3610549.3614604)
+
+Zixiao Liu, **Shuo Yan**
+
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  This work provided an immersive virtual reality experience based on the Dongba script of the Naxi people in Yunnan Province, China.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 
