@@ -253,7 +253,17 @@ Zixiao Liu, **Shuo Yan**
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2021</div><img src='images/body.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Bodyreath”: An Interactive VR Installation to Experience and Understand People with Autism**](https://dl.acm.org/doi/10.1145/3478514.3487612)
+
+Huifeng Zhang, **Shuo Yan**
+
+[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  This work is an interactive VR installation for understanding people with autism.
+</div>
+</div>
 
 
 
