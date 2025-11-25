@@ -171,7 +171,7 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">CHI 2021</div><img src='images/perform.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2021</div><img src='images/perform.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Performing with Me: Enhancing Audience-Performer Interaction in An Immersive Virtual Play**](https://dl.acm.org/doi/10.1145/3411763.3451686)
