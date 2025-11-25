@@ -228,7 +228,7 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2025</div><img src='images/bamboo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2023</div><img src='images/dongba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Dongba Script Character Construction Space”: VR science-based interactive experience of pictographs in intangible cultural heritage**](https://dl.acm.org/doi/10.1145/3610549.3614604)
