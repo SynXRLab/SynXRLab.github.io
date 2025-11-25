@@ -183,7 +183,17 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2016</div><img src='images/brain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Enhancing audience engagement in performing arts through an adaptive virtual environment with a brain-computer interface**](https://dl.acm.org/doi/10.1145/2856767.2856768)
+
+**Shuo Yan**, GangYi Ding, Hongsong Li, Ningxiao Sun, Yufeng Wu, Zheng Guan, Longfei Zhang, Tianyu Huang
+
+<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+- We developed a real-time EEG-based system that monitors audience engagement during immersive theatre performances and triggers adaptive performing cues when engagement decreases, with experimental results from 48 participants demonstrating its effectiveness in regaining audience engagement.
+</div>
+</div>
 
 
 
