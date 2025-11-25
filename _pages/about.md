@@ -95,6 +95,20 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">IEEE VIS 2024</div><img src='images/metamood.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**MetaMood: An AI-based Shared Emotion Visualisation in Immersive Healing Spaces**](https://ieeevis.org/year/2024/program/poster_v-vis-posters-1034.html)
+
+Fengyi Yan, Siyu Luo, **Shuo Yan**, Xukun Shen
+
+[**Video**](https://www.youtube.com/watch?v=5cG9H03thnM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Metamood is an AI visualization system that automatically generates visual expressions of emotions in group art therapy.
+</div>
+</div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2023</div><img src='images/achi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,6 +133,27 @@ Xinyi Su, **Shuo Yan**
 - We developed a VR game for treating dark phobia in children aged 4-6 through participatory research involving children and stakeholders to identify design requirements.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">IEEE VR 2023</div><img src='images/cohand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**A Comparison of Gesture-based Interaction and Controller-based Interaction for External Users in Co-located Asymmetric Virtual Reality**](https://ieeexplore.ieee.org/document/10108892)
+
+Yuetong Zhao, **Shuo Yan**, Xuanmiao Zhang, Xukun Shen
+
+<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+- We designed a wearable gesture-based interface for external users in two main asymmetric VR scenarios: (1) Object Transition, (2) Collaborative Game.
+</div>
+</div>
+
+
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2022</div><img src='images/huaer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,17 +216,7 @@ Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">IEEE VIS 2024</div><img src='images/metamood.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**MetaMood: An AI-based Shared Emotion Visualisation in Immersive Healing Spaces**](https://ieeevis.org/year/2024/program/poster_v-vis-posters-1034.html)
-
-Fengyi Yan, Siyu Luo, **Shuo Yan**, Xukun Shen
-
-[**Video**](https://www.youtube.com/watch?v=5cG9H03thnM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Metamood is an AI visualization system that automatically generates visual expressions of emotions in group art therapy.
-</div>
-</div>
 
 
 
