@@ -247,7 +247,7 @@ Yulu Lu, Wensi Dai, **Shuo Yan**
 
 Zixiao Liu, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=htXEieD830Y) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  This work provided an immersive virtual reality experience based on the Dongba script of the Naxi people in Yunnan Province, China.
 </div>
 </div>
