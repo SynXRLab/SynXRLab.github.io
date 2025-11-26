@@ -253,6 +253,22 @@ Zixiao Liu, **Shuo Yan**
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2022</div><img src='images/voight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Voight-Kampff 2.0**](https://dl.acm.org/doi/10.1145/3550470.3558423)
+
+Fang Fang, **Shuo Yan**
+
+<a href="https://www.youtube.com/watch?v=4-TcXZrPpEI" style="text-decoration: none; color: #00369F;">**Video**</a>
+-  "Voight-Kampff 2.0" is a reflection on the sustainable development of artificial intelligence technology in the future. Once a machine becomes conscious, would AI stay as a tool or obtain a soul? Would there be a boundary between human and machines?
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2021</div><img src='images/body.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
