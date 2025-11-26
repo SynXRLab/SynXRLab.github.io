@@ -260,7 +260,7 @@ Zixiao Liu, **Shuo Yan**
 
 Fang Fang, **Shuo Yan**
 
-<a href="https://www.youtube.com/watch?v=4-TcXZrPpEI" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://www.youtube.com/watch?v=iiCw3mZ2dOU" style="text-decoration: none; color: #00369F;">**Video**</a>
 -  "Voight-Kampff 2.0" is a reflection on the sustainable development of artificial intelligence technology in the future. Once a machine becomes conscious, would AI stay as a tool or obtain a soul? Would there be a boundary between human and machines?
 </div>
 </div>
