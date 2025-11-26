@@ -208,7 +208,7 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 
 Zhu Zhu, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=dwbTcSVA9vo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.youtube.com/watch?v=dwbTcSVA9vo" style="text-decoration: none; color: #00369F;">**Video**</a>
 <a href="https://asia.siggraph.org/2025/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 - This project integrates Chinese Sign Language into immersive interaction, enhancing expressiveness and inclusivity while enabling barrier-free communication that bridges Deaf and hearing communities beyond natural gestures and instruction.
 </div>
@@ -222,7 +222,7 @@ Zhu Zhu, **Shuo Yan**
 
 Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=uH990ha-o50) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.youtube.com/watch?v=uH990ha-o50" style="text-decoration: none; color: #00369F;">**Video**</a>
 <a href="https://asia.siggraph.org/2025/" style="text-decoration: none; color: #00369F;">**To be published**</a>
 - Immersive VR with coordinated bimanual gesture interaction revives traditional bamboo weaving, blending cultural heritage with engaging, hands-on experiences to promote, preserve, and creatively reinterpret intangible traditions for wider audiences.
 </div>
