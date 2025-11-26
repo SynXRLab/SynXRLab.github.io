@@ -53,7 +53,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
-<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**To be published**</a>
+**To be published**
 - We developed a co-design framework and apply it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience.
 </div>
 </div>
@@ -65,7 +65,7 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
 Fengyi Yan, **Shuo Yan**, Wensi Dai, Likun Zhao and Zixiao Liu
 
-<a href="https://iasdr2025.org/" style="text-decoration: none; color: #00369F;">**To be published**</a>
+**To be published**
 - We proposed a comprehensive Role Interpretation Framework based on three core interpersonal dimensions—Dominance, Sociability, and Task Orientation—to systematically capture and explain user roles in MR collaboration. 
 </div>
 </div>
