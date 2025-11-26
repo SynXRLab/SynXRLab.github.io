@@ -183,6 +183,21 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2020</div><img src='images/socialVR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**An Exploratory Study for Designing Social Experience of Watching VR Movies Based on Audience’s Voice Comments**](https://ieeexplore.ieee.org/document/9288374)
+
+**Shuo Yan**, Wenli Jiang, Menghan Xiong, Xukun Shen
+
+- We proposed an approach to design an asynchronous social experience that allows the participant to receive other audiences' voice comments in VR movies.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2016</div><img src='images/brain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -194,6 +209,12 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 - We developed a real-time EEG-based system that monitors audience engagement during immersive theatre performances and triggers adaptive performing cues when engagement decreases, with experimental results from 48 participants demonstrating its effectiveness in regaining audience engagement.
 </div>
 </div>
+
+
+
+
+
+
 
 
 
