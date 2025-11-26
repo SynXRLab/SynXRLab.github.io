@@ -243,7 +243,7 @@ Yulu Lu, Wensi Dai, **Shuo Yan**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge3">SIGGRAPH ASIA 2022</div><img src='images/dancedrum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Dance of Drums”: An Interactive Installation of ICH Dance Representation Through the Combination of Virtual and Reality**](https://dl.acm.org/doi/10.1145/3610549.3614604)
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**“Dance of Drums”: An Interactive Installation of ICH Dance Representation Through the Combination of Virtual and Reality**](https://dl.acm.org/doi/10.1145/3550472.3558413)
 
 Zixiao Liu, **Shuo Yan**
 
