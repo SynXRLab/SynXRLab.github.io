@@ -102,7 +102,7 @@ Zixiao Liu, **Shuo Yan**, Wenjie He, Xiaomeng Wan, Xukun Shen
 
 Fengyi Yan, Siyu Luo, **Shuo Yan**, Xukun Shen
 
-[**Video**](https://www.youtube.com/watch?v=5cG9H03thnM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.youtube.com/watch?v=5cG9H03thnM" style="text-decoration: none; color: #00369F;">**Video**</a>
 - Metamood is an AI visualization system that automatically generates visual expressions of emotions in group art therapy.
 </div>
 </div>
@@ -142,7 +142,7 @@ Xinyi Su, **Shuo Yan**
 
 Yuetong Zhao, **Shuo Yan**, Xuanmiao Zhang, Xukun Shen
 
-<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://www.youtube.com/watch?v=kHuPBtWqwxk" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We designed a wearable gesture-based interface for external users in two main asymmetric VR scenarios: (1) Object Transition, (2) Collaborative Game.
 </div>
 </div>
@@ -166,7 +166,7 @@ Zixiao Liu, **Shuo Yan**, Yu Lu, Yuetong Zhao
 
 Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 
-<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://www.youtube.com/watch?v=DShy_JkFWkw" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We proposed a support system to investigate how performer's heart rate (HR) and audience's electroencephalogram (EEG) visualizations, and the corresponding auditory feedback, influence audience's sense of perception, immersion, and the narrative understanding.
 </div>
 </div>
@@ -178,7 +178,7 @@ Saixi Ge, Siyu Luo, **Shuo Yan**, Xukun Shen
 
 **Shuo Yan**, Saixi Ge, Jinhui Wang, Xukun Shen
 
-<a href="https://www.youtube.com/watch?v=Zr812Xxezfs" style="text-decoration: none; color: #00369F;">**Video**</a>
+<a href="https://www.youtube.com/watch?v=tA0khgdpCHY" style="text-decoration: none; color: #00369F;">**Video**</a>
 - We presented a novel immersive theater-based approach for enhancing audience-performer interaction in virtual plays through individual-based, scenario-based, and narrative-based interactions.
 </div>
 </div>
