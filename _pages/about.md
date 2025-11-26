@@ -276,7 +276,7 @@ Fang Fang, **Shuo Yan**
 
 Huifeng Zhang, **Shuo Yan**
 
-[**Video**](https://www.youtube.com/watch?v=HYASrRvVG4E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=Wt4LETkjYHY) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  This work is an interactive VR installation for understanding people with autism.
 </div>
 </div>
