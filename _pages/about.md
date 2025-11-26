@@ -311,5 +311,5 @@ Huifeng Zhang, **Shuo Yan**
 
 # 💬 Invited Talks
 - 2025.11, <a href="https://mp.weixin.qq.com/s/Im6Z4NIer50IrrRqCpHwpA" style="text-decoration: none; color: #00369F;">**Research on Innovative Design of Human-Computer Collaborative Intelligent Performance**</a>, , Dance Research Institute, China National Academy of Arts.  
-- 2019.09, TEDxChengdu
+- 2019.09, <a href="https://www.ted.com/talks/shuo_yan_tedxchengdu" style="text-decoration: none; color: #00369F;">**从"观众"到"创造者"**</a>, TEDxChengdu
 
