@@ -40,6 +40,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 - Independent Project of the State Key Laboratory of Virtual Reality Technology and Systems, Project: **Research on Innovative Design of Immersive Performance under Human-AI Collaboration**(2024-2026) 虚拟现实技术与系统全国重点实验室自主课题
 
 # 🔔 News 
+- Jan, 2026 · Visiting Researcher in Immersive Reality Lab, National University of Singapore, 📍Singapore
 - Dec, 2025 · SIGGRAPH ASIA Conference, 📍HongKong, China
 - Nov, 2025 · ICXR Conference <a href="https://icxr.net/2025/callForXRGallery.html">**XR Gallery Chair**</a>, 📍Qingdao, China
 - May, 2025 · CHI Conference, 📍Yokohama, Japan
