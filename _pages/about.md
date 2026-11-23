@@ -47,10 +47,22 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 📖 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IJHCS</div><div class="badge2">IJHCS</div><img src='images/matrix sheet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Journal**</span>&nbsp;[**FootCR: Designing and evaluating foot-based interactions for seamless cross-reality experiences**](https://www.sciencedirect.com/science/article/pii/S1071581926002582)
+
+Zixiao Liu, **Shuo Yan**, Xiaomeng Wan and Henry Duh
+
+- We propose FootCR, a design space developed through an evidence-based, elicitation-driven process, to refine foot-movement vocabularies and intuitive gesture-effect mappings.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IASDR 2025</div><div class="badge2">IASDR 2025</div><img src='images/matrix sheet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**From Body to Interface: Co-design Gesture-based Interactions with Experts for Immersive Experiences**](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1581&context=iasdr))
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**From Body to Interface: Co-design Gesture-based Interactions with Experts for Immersive Experiences**](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1581&context=iasdr)
 
 Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
