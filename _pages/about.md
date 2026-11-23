@@ -41,7 +41,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 🔔 News 
 - Dec, 2026 · SIGGRAPH Asia 2026, Educators Forum Talk, 📍Kuala Lumpur, Malaysia
-- Nov, 2026 · ICXR 2026 Conference, <a href="https://icxr.net/2026/ProgramXRGallery.html">**XR Gallery**</a>, 📍Guangzhou, China
+- Nov, 2026 · ICXR 2026 Conference, <a href="https://icxr.net/2026/ProgramXRGallery.html">**XR Gallery Chair**</a>, 📍Guangzhou, China
 - Oct, 2026 · Pacific Graphics 2026 Conference, Demo Presentation, 📍Singapore
 - Jan, 2026 · Visiting Researcher in Immersive Reality Lab, National University of Singapore, 📍Singapore
 - Dec, 2025 · SIGGRAPH ASIA Conference, 📍HongKong, China
