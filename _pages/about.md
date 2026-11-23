@@ -49,7 +49,7 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge4">IJHCS</div><div class="badge4">IJHCS</div><img src='images/FootCR.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge4">IJHCS</div><div class="badge4">IJHCS</div><img src='images/footcr.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Journal**</span>&nbsp;[**FootCR: Designing and evaluating foot-based interactions for seamless cross-reality experiences**](https://www.sciencedirect.com/science/article/pii/S1071581926002582)
