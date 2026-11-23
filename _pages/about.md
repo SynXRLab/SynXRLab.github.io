@@ -54,7 +54,6 @@ My research focuses on creating novel immersive XR experiences. I have published
 
 Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 
-**To be published**
 - We developed a co-design framework and apply it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience.
 </div>
 </div>
@@ -62,11 +61,10 @@ Zixiao Liu, **Shuo Yan**, Haiyan Jiang, Fengyi Yan and Henry Been-Lirn Duh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge2">IASDR 2025</div><div class="badge2">IASDR 2025</div><img src='images/mr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach**](https://iasdr2025.org/)
+<span style="background-color: #EEB4B4; padding: 4px 8px; font-size: 11px; border-radius: 5px;">**Conference**</span>&nbsp;[**Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach**](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1675&context=iasdr)
 
 Fengyi Yan, **Shuo Yan**, Wensi Dai, Likun Zhao and Zixiao Liu
 
-**To be published**
 - We proposed a comprehensive Role Interpretation Framework based on three core interpersonal dimensions—Dominance, Sociability, and Task Orientation—to systematically capture and explain user roles in MR collaboration. 
 </div>
 </div>
