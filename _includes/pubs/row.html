@@ -1,0 +1,7 @@
+{%- assign p = include.item -%}
+<li class="pub-row">
+<span class="pub-type">{{ p.type }}</span>
+{% if p.link %}<a href="{{ p.link }}"><strong>{{ p.title }}</strong></a>{% else %}<strong>{{ p.title }}</strong>{% endif %}<br>
+<span class="pub-authors">{{ p.authors_short | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span><br>
+<span class="pub-venue"><em>{{ p.venue }}</em>, {{ p.year }}{% if p.video %} · <a href="{{ p.video }}">Video</a>{% endif %}</span>
+</li>

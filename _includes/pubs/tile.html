@@ -1,0 +1,11 @@
+{%- assign p = include.item -%}
+{%- assign img = p.image | default: 'images/500x300.png' | replace: ' ', '%20' -%}
+<div class="work-tile">
+  <a href="{{ p.video | default: p.link }}"><div class="work-thumb"><span class="{{ p.badge | default: 'badge' }}">{{ p.short }}</span><img src="{{ '/' | append: img | relative_url }}" alt="{{ p.title | escape }}"></div></a>
+  <div class="work-meta">
+    <span class="pub-type">{{ p.type }}</span>
+    <p class="work-title">{% if p.link %}<a href="{{ p.link }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
+    <p class="pub-authors">{{ p.authors_short | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+    <p class="pub-venue">{{ p.venue }}{% if p.video %} · <a href="{{ p.video }}">Video</a>{% endif %}</p>
+  </div>
+</div>

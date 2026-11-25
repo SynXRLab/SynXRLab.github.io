@@ -7,10 +7,10 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications/"
 
   - title: "XR Demos and Artworks"
-    url: "/#-xr-demos-and-artworks"
+    url: "/works/"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -20,4 +20,3 @@ main:
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
-

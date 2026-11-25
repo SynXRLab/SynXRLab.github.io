@@ -1,0 +1,548 @@
+# Single source of truth for publications and works.
+#
+# Fields
+#   title, year, venue (full), short (badge text), badge (CSS class: badge / badge1 / badge2 / badge3 / badge4)
+#   type:   Journal | Conference | Extended Abstract | Poster | Art Paper | XR | Art Gallery | Demo | Talk | Book
+#   kind:   paper | work | both      (paper -> Publications page; work -> Works page; both -> both pages)
+#   authors:       full names, used on selected cards (optional)
+#   authors_short: compact form, used on the full publication list
+#                  **S Yan** = Shuo Yan; a trailing \* marks corresponding author
+#   link, video, image, desc (optional)
+#   selected_pub / selected_work: true to show on the homepage
+#
+# To add a new item: copy an entry, edit the fields, keep the list in reverse chronological order.
+
+# ---------------- 2026 ----------------
+- title: "Synthetic Instinct: Behavior-Conditioned Generative Environments in XR"
+  year: 2026
+  venue: "Pacific Graphics 2026 Interactive Demo, Singapore"
+  short: "Pacific Graphics 2026"
+  badge: badge4
+  type: Demo
+  kind: work
+  authors: "Xiaomeng Wan, **Shuo Yan**\\*"
+  authors_short: "X Wan, **S Yan**\\*"
+  image: images/synthetic_instinct.jpg
+  desc: "A body-conditioned generative system in XR that translates users' behavior into evolving generative environments, with prototypes inspired by bee, owl and shark perception."
+  selected_work: true
+
+- title: "From Narrative Participation to Bodily Enactment: XR Design Education for Embodied Cultural Knowledge"
+  year: 2026
+  venue: "SIGGRAPH Asia 2026 Educator's Forum"
+  short: "SIGGRAPH Asia 2026"
+  badge: badge3
+  type: Talk
+  kind: paper
+  authors_short: "**S Yan**"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:HDshCWvjkbEC"
+
+- title: "Enhancing Intangible Cultural Heritage Dance Formation Choreography in VR via Large Language Models"
+  year: 2026
+  venue: "ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)"
+  short: "ACM TOMM"
+  badge: badge4
+  type: Journal
+  kind: paper
+  authors_short: "F Zhou, J Rao, J Dai, J Pan, Y Hu, **S Yan**, W Zhou, Y Lai, PL Rosin"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:mB3voiENLucC"
+
+- title: "FootCR: Designing and Evaluating Foot-based Interactions for Seamless Cross-Reality Experiences"
+  year: 2026
+  venue: "International Journal of Human-Computer Studies (IJHCS)"
+  short: "IJHCS"
+  badge: badge4
+  type: Journal
+  kind: paper
+  authors: "Zixiao Liu, **Shuo Yan**\\*, Xiaomeng Wan, Henry Duh"
+  authors_short: "Z Liu, **S Yan**\\*, X Wan, H Duh"
+  link: "https://www.sciencedirect.com/science/article/pii/S1071581926002582"
+  image: images/footcr.jpeg
+  desc: "We propose FootCR, a design space developed through an evidence-based, elicitation-driven process, to refine foot-movement vocabularies and intuitive gesture-effect mappings."
+  selected_pub: true
+
+- title: "SnapAxis: Axis Based Interaction for Object Manipulation in Mixed Reality"
+  year: 2026
+  venue: "ACM Symposium on User Interface Software and Technology (UIST)"
+  short: "UIST 2026"
+  badge: badge
+  type: Conference
+  kind: paper
+  authors_short: "F Yan, J Wu, **S Yan**, SK Im, L Wang"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:hFOr9nPyWt4C"
+
+- title: "A MR-Mapping System for Guided Self-Correction in Postural Rehabilitation"
+  year: 2026
+  venue: "IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)"
+  short: "IEEE VR 2026"
+  badge: badge1
+  type: Poster
+  kind: paper
+  authors_short: "T Yang, C Shi, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:hC7cP41nSMkC"
+
+- title: "Design of an Immersive VR Experience for Awakening Responsibility from an Embodied Cognition Perspective: A Case Study of School Bullying Intervention"
+  year: 2026
+  venue: "International Conference on Extended Reality (ICXR)"
+  short: "ICXR"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors_short: "X Zhang, R Zhang, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:-f6ydRqryjwC"
+
+# ---------------- 2025 ----------------
+- title: "Hands in Bloom: An Auditory-Accessible Immersive Experience Based on Chinese Sign Language Recognition and Gesture Tracking"
+  year: 2025
+  venue: "SIGGRAPH Asia 2025 Posters"
+  short: "SIGGRAPH Asia 2025"
+  badge: badge3
+  type: Poster
+  kind: work
+  authors: "Zhu Zhu, **Shuo Yan**\\*"
+  authors_short: "Z Zhu, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:QIV2ME_5wuYC"
+  video: "https://www.youtube.com/watch?v=dwbTcSVA9vo"
+  image: images/hand.png
+  desc: "This project integrates Chinese Sign Language into immersive interaction, enhancing expressiveness and inclusivity while enabling barrier-free communication that bridges Deaf and hearing communities."
+  selected_work: true
+
+- title: "Bamboo Rhyme Craft: Immersive VR Bamboo Weaving through Coordinated Bimanual Gesture Interaction"
+  year: 2025
+  venue: "SIGGRAPH Asia 2025 Posters"
+  short: "SIGGRAPH Asia 2025"
+  badge: badge3
+  type: Poster
+  kind: work
+  authors: "Chenyue Zheng, Yaxuan Zhao, Runxin Guo, **Shuo Yan**\\*"
+  authors_short: "C Zheng, Y Zhao, R Guo, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:dhFuZR0502QC"
+  video: "https://www.youtube.com/watch?v=uH990ha-o50"
+  image: images/bamboo.jpg
+  desc: "Immersive VR with coordinated bimanual gesture interaction revives traditional bamboo weaving, blending cultural heritage with hands-on experience."
+
+- title: "Where Things Become Imageries: Visualization Experience of Chinese Poetic Imageries in Immersive VR"
+  year: 2025
+  venue: "SIGGRAPH Asia 2025 Posters"
+  short: "SIGGRAPH Asia 2025"
+  badge: badge3
+  type: Poster
+  kind: work
+  authors_short: "H Xian, L Zhao, X Peng, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:9ZlFYXVOiuMC"
+
+- title: "\"If My Apple Can Talk\": Exploring the Use of Everyday Objects as Personalized AI Agents in Mixed Reality"
+  year: 2025
+  venue: "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2025"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors: "Yu Wang, Yulu Lu, **Shuo Yan**\\*, Xukun Shen"
+  authors_short: "Y Wang, Y Lu, **S Yan**\\*, X Shen"
+  link: "https://dl.acm.org/doi/full/10.1145/3706599.3720253"
+  video: "https://www.youtube.com/watch?v=FvPCVOcMXtc"
+  image: images/P1.jpg
+  desc: "We developed the MyAIPal prototype system, which enables users to interact with AI agents of personalized everyday objects through voice dialogue and natural behaviors."
+
+- title: "From Body to Interface: Co-design Gesture-based Interactions with Experts for Immersive Experiences"
+  year: 2025
+  venue: "International Association of Societies of Design Research Congress (IASDR)"
+  short: "IASDR 2025"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors: "Zixiao Liu, **Shuo Yan**\\*, Haiyan Jiang, Fengyi Yan, Henry Been-Lirn Duh"
+  authors_short: "Z Liu, **S Yan**\\*, H Jiang, F Yan, HBL Duh"
+  link: "https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1581&context=iasdr"
+  image: images/matrix sheet.jpg
+  desc: "We developed a co-design framework and applied it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience."
+  selected_pub: true
+
+- title: "Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach"
+  year: 2025
+  venue: "International Association of Societies of Design Research Congress (IASDR)"
+  short: "IASDR 2025"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors: "Fengyi Yan, **Shuo Yan**\\*, Wensi Dai, Likun Zhao, Zixiao Liu"
+  authors_short: "F Yan, **S Yan**\\*, W Dai, L Zhao, Z Liu"
+  link: "https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1675&context=iasdr"
+  image: images/mr.png
+  desc: "We proposed a Role Interpretation Framework based on Dominance, Sociability and Task Orientation to capture and explain user roles in MR collaboration."
+
+# ---------------- 2024 ----------------
+- title: "Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience"
+  year: 2024
+  venue: "IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
+  short: "ISMAR 2024"
+  badge: badge1
+  type: Conference
+  kind: paper
+  authors: "Zixiao Liu, **Shuo Yan**\\*, Wenjie He, Xiaomeng Wan, Xukun Shen"
+  authors_short: "Z Liu, **S Yan**\\*, W He, X Wan, X Shen"
+  link: "https://ieeexplore.ieee.org/document/10765257"
+  video: "https://youtu.be/O6Cn66E263Y?si=XQUt2BcsvsAuqsQf"
+  image: images/beyondreality.png
+  desc: "We designed the immersive narrative “Beyond Realities” and implemented four cross-reality interactions: Portal Passthrough, Virtual Guidance, Object Passthrough and Bystander Avatar."
+  selected_pub: true
+
+- title: "MetaMood: An AI-based Shared Emotion Visualisation in Immersive Healing Spaces"
+  year: 2024
+  venue: "IEEE VIS 2024 Posters"
+  short: "IEEE VIS 2024"
+  badge: badge3
+  type: Poster
+  kind: both
+  authors: "Fengyi Yan, Siyu Luo, **Shuo Yan**\\*, Xukun Shen"
+  authors_short: "F Yan, S Luo, **S Yan**\\*, X Shen"
+  link: "https://ieeevis.org/year/2024/program/poster_v-vis-posters-1034.html"
+  video: "https://www.youtube.com/watch?v=5cG9H03thnM"
+  image: images/metamood.png
+  desc: "MetaMood is an AI visualization system that automatically generates visual expressions of emotions in group art therapy."
+  selected_work: true
+
+- title: "Magic Ball: A Globe-based System for Multidimensional Information Display and Interaction in MR"
+  year: 2024
+  venue: "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2024"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors_short: "L Hu, X Liang, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:qUcmZB5y_30C"
+
+- title: "\"Mortise and Tenon Pavilion\": Integrating Spatial Displacement into the Virtual Experience of ICH Crafts"
+  year: 2024
+  venue: "International Symposium of Chinese CHI (Chinese CHI)"
+  short: "Chinese CHI 2024"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors_short: "Y Chen, X Wan, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:Wp0gIr-vW9MC"
+
+# ---------------- 2023 ----------------
+- title: "“Achi Mukua Experience Space”: A Multi-Player Immersive Experience of Yunnan ICH Dance"
+  year: 2023
+  venue: "SIGGRAPH Asia 2023 Art Papers"
+  short: "SIGGRAPH Asia 2023"
+  badge: badge3
+  type: Art Paper
+  kind: both
+  authors: "Siyu Luo, **Shuo Yan**\\*"
+  authors_short: "S Luo, **S Yan**\\*"
+  link: "https://dl.acm.org/doi/10.1145/3610591.3616431"
+  video: "https://www.youtube.com/watch?v=HYASrRvVG4E"
+  image: images/achi.png
+  desc: "We develop design methods for ICH dance that combine social presence, collaborative multiplayer interaction and emotional feedback to enable co-creative immersive experiences."
+  selected_pub: true
+
+- title: "NVSHU: Virtual Reality Design and Narrative Popularization for Intangible Cultural Heritage Characters"
+  year: 2023
+  venue: "SIGGRAPH Asia 2023 XR"
+  short: "SIGGRAPH Asia 2023"
+  badge: badge3
+  type: XR
+  kind: work
+  authors_short: "X Zhang, L Sun, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:4TOpqqG69KYC"
+
+- title: "“Dream Songs”: Integrating Body Interaction into ICH Oral Literature Virtual Narrative Experience"
+  year: 2023
+  venue: "SIGGRAPH Asia 2023 XR"
+  short: "SIGGRAPH Asia 2023"
+  badge: badge3
+  type: XR
+  kind: work
+  authors_short: "Y Wang, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:_kc_bZDykSQC"
+
+- title: "“Dongba Script Character Construction Space”: VR Science-based Interactive Experience of Pictographs in Intangible Cultural Heritage"
+  year: 2023
+  venue: "SIGGRAPH Asia 2023 XR"
+  short: "SIGGRAPH Asia 2023"
+  badge: badge3
+  type: XR
+  kind: work
+  authors: "Yulu Lu, Wensi Dai, **Shuo Yan**\\*"
+  authors_short: "Y Lu, W Dai, **S Yan**\\*"
+  link: "https://dl.acm.org/doi/10.1145/3610549.3614604"
+  video: "https://www.youtube.com/watch?v=4-TcXZrPpEI"
+  image: images/dongba.png
+  desc: "An immersive virtual reality experience based on the Dongba script of the Naxi people in Yunnan Province, China."
+
+- title: "Crossing Narrative: Exploring the Possibilities of Crossing the Virtuality and Reality in Interactive Narrative Experiences"
+  year: 2023
+  venue: "SIGGRAPH Asia 2023 Posters"
+  short: "SIGGRAPH Asia 2023"
+  badge: badge3
+  type: Poster
+  kind: paper
+  authors_short: "Z Liu, **S Yan**\\*, X Shen"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:ULOm3_A8WrAC"
+
+- title: "“Z Box”: Interactive VR Game of Generation Z's Growth Memories"
+  year: 2023
+  venue: "International Symposium on Visual Information Communication and Interaction (VINCI)"
+  short: "VINCI 2023"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors_short: "F Fang, Y Lu, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:Zph67rFs4hoC"
+
+- title: "NoPhobiar: Designing a VR Game to Prevent Childhood Dark Phobia with Children and Stakeholders"
+  year: 2023
+  venue: "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2023"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors: "Xinyi Su, **Shuo Yan**\\*"
+  authors_short: "X Su, **S Yan**\\*"
+  link: "https://dl.acm.org/doi/10.1145/3544549.3585733"
+  video: "https://www.youtube.com/watch?v=bero8nW8BW8"
+  image: images/child.png
+  desc: "A VR game for treating dark phobia in children aged 4–6, designed through participatory research with children and stakeholders."
+
+- title: "A Comparison of Gesture-based Interaction and Controller-based Interaction for External Users in Co-located Asymmetric Virtual Reality"
+  year: 2023
+  venue: "IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)"
+  short: "IEEE VR 2023"
+  badge: badge1
+  type: Poster
+  kind: both
+  authors: "Yuetong Zhao, **Shuo Yan**\\*, Xuanmiao Zhang, Xukun Shen"
+  authors_short: "Y Zhao, **S Yan**\\*, X Zhang, X Shen"
+  link: "https://ieeexplore.ieee.org/document/10108892"
+  video: "https://www.youtube.com/watch?v=kHuPBtWqwxk"
+  image: images/cohand.png
+  desc: "A wearable gesture-based interface for external users in asymmetric VR, evaluated in object transition and collaborative game scenarios."
+  selected_work: true
+
+- title: "Facilitating Asymmetric Interaction between VR Users and External Users via Wearable Gesture-Based Interface"
+  year: 2023
+  venue: "IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)"
+  short: "IEEE VR 2023"
+  badge: badge1
+  type: Poster
+  kind: paper
+  authors_short: "Y Zhao, **S Yan**\\*, X Zhang, X Shen"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:3fE2CSJIrl8C"
+
+# ---------------- 2022 ----------------
+- title: "Voight-Kampff 2.0"
+  year: 2022
+  venue: "SIGGRAPH Asia 2022 Art Gallery"
+  short: "SIGGRAPH Asia 2022"
+  badge: badge3
+  type: Art Gallery
+  kind: work
+  authors: "Fang Fang, **Shuo Yan**\\*"
+  authors_short: "F Fang, **S Yan**\\*"
+  link: "https://dl.acm.org/doi/10.1145/3550470.3558423"
+  video: "https://www.youtube.com/watch?v=iiCw3mZ2dOU"
+  image: images/voight.png
+  desc: "A reflection on the future of artificial intelligence: once a machine becomes conscious, would AI stay a tool or obtain a soul, and would there still be a boundary between humans and machines?"
+  selected_work: true
+
+- title: "“Dance of Drums”: An Interactive Installation of ICH Dance Representation Through the Combination of Virtual and Reality"
+  year: 2022
+  venue: "SIGGRAPH Asia 2022 XR"
+  short: "SIGGRAPH Asia 2022"
+  badge: badge3
+  type: XR
+  kind: work
+  authors: "Zixiao Liu, **Shuo Yan**\\*"
+  authors_short: "Z Liu, **S Yan**\\*"
+  link: "https://dl.acm.org/doi/10.1145/3550472.3558413"
+  video: "https://www.youtube.com/watch?v=htXEieD830Y"
+  image: images/dancedrum.png
+  desc: "An interactive installation representing ICH dance through the combination of virtual and physical elements."
+
+- title: "Cohand VR: Towards a Shareable Immersive Experience via Wearable Gesture Interface between VR Audiences and External Audiences"
+  year: 2022
+  venue: "SIGGRAPH Asia 2022 Posters"
+  short: "SIGGRAPH Asia 2022"
+  badge: badge3
+  type: Poster
+  kind: paper
+  authors_short: "Y Zhao, **S Yan**\\*, X Shen"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:ZeXyd9-uunAC"
+
+- title: "Effects of Augmenting Real-Time Biofeedback in an Immersive VR Performance"
+  year: 2022
+  venue: "IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
+  short: "ISMAR 2022"
+  badge: badge1
+  type: Conference
+  kind: paper
+  authors: "Saixi Ge, Siyu Luo, **Shuo Yan**\\*, Xukun Shen"
+  authors_short: "S Ge, S Luo, **S Yan**\\*, X Shen"
+  link: "https://ieeexplore.ieee.org/document/9974500"
+  video: "https://www.youtube.com/watch?v=DShy_JkFWkw"
+  image: images/eeg.jpg
+
+- title: "Generating Embodied Storytelling and Interactive Experience of China Intangible Cultural Heritage “Hua'er” in Virtual Reality"
+  year: 2022
+  venue: "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2022"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors: "Zixiao Liu, **Shuo Yan**\\*, Yu Lu, Yuetong Zhao"
+  authors_short: "Z Liu, **S Yan**\\*, Y Lu, Y Zhao"
+  link: "https://dl.acm.org/doi/10.1145/3491101.3519761"
+  video: "https://www.youtube.com/watch?v=Zr812Xxezfs"
+  image: images/huaer.png
+  desc: "“Hua'er and the Youth”, an interactive VR system integrating virtual avatars, participatory performance and game-based knowledge acquisition for experiencing Hua'er performance."
+  selected_pub: true
+
+# ---------------- 2021 ----------------
+- title: "“Once”: Multi-perspective and Interactive VR Narrative Film"
+  year: 2021
+  venue: "SIGGRAPH Asia 2021 XR"
+  short: "SIGGRAPH Asia 2021"
+  badge: badge3
+  type: XR
+  kind: work
+  authors_short: "Z Liu, L Li, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:YsMSGLbcyi4C"
+
+- title: "“Bodyreath”: An Interactive VR Installation to Experience and Understand People with Autism"
+  year: 2021
+  venue: "SIGGRAPH Asia 2021 XR"
+  short: "SIGGRAPH Asia 2021"
+  badge: badge3
+  type: XR
+  kind: work
+  authors: "Huifeng Zhang, **Shuo Yan**\\*"
+  authors_short: "H Zhang, **S Yan**\\*"
+  link: "https://dl.acm.org/doi/10.1145/3478514.3487612"
+  video: "https://www.youtube.com/watch?v=Wt4LETkjYHY"
+  image: images/body.png
+  desc: "An interactive VR installation for experiencing and understanding people with autism."
+
+- title: "“Flower and the Youth”: Virtual Narrative and Creative Methods of Oral Performance in China Intangible Cultural Heritage"
+  year: 2021
+  venue: "SIGGRAPH Asia 2021 XR"
+  short: "SIGGRAPH Asia 2021"
+  badge: badge3
+  type: XR
+  kind: work
+  authors_short: "Y Lu, Z Liu, X Yan, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:Y0pCki6q_DkC"
+
+- title: "Performing with Me: Enhancing Audience-Performer Interaction in an Immersive Virtual Play"
+  year: 2021
+  venue: "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2021"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors: "**Shuo Yan**, Saixi Ge, Jinhui Wang, Xukun Shen"
+  authors_short: "**S Yan**, S Ge, J Wang, X Shen"
+  link: "https://dl.acm.org/doi/10.1145/3411763.3451686"
+  video: "https://www.youtube.com/watch?v=tA0khgdpCHY"
+  image: images/perform.png
+
+- title: "Touch-based Human-Machine Interaction: Principles and Applications"
+  year: 2021
+  venue: "Springer (monograph, 7 chapters)"
+  short: "Springer"
+  badge: badge4
+  type: Book
+  kind: paper
+  authors_short: "S Gao, **S Yan**, H Zhao, A Nathan"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:ufrVoPGSRksC"
+
+# ---------------- 2020 ----------------
+- title: "Exploring Social Interactions for Live Performance in Virtual Reality"
+  year: 2020
+  venue: "SIGGRAPH Asia 2020 Posters"
+  short: "SIGGRAPH Asia 2020"
+  badge: badge3
+  type: Poster
+  kind: paper
+  authors_short: "**S Yan**, X Yan, X Shen"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:UeHWp8X0CEIC"
+
+- title: "An Exploratory Study for Designing Social Experience of Watching VR Movies Based on Audience's Voice Comments"
+  year: 2020
+  venue: "IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
+  short: "ISMAR 2020"
+  badge: badge1
+  type: Conference
+  kind: paper
+  authors_short: "**S Yan**, W Jiang, M Xiong, X Shen"
+  link: "https://ieeexplore.ieee.org/document/9288374"
+  image: images/socialVR.png
+
+- title: "Research on Parents and Left-behind Children Online Communication Solution Based on Habit Formation Theory"
+  year: 2020
+  venue: "International Workshop of Chinese CHI (Chinese CHI)"
+  short: "Chinese CHI 2020"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors_short: "Q Lv, L Liu, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:qjMakFHDy7sC"
+
+- title: "An Experience Study for Exploring Online Emotional Support in Parents of Children with Autism in China"
+  year: 2020
+  venue: "International Workshop of Chinese CHI (Chinese CHI)"
+  short: "Chinese CHI 2020"
+  badge: badge2
+  type: Conference
+  kind: paper
+  authors_short: "X Yan, Y He, **S Yan**\\*"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:2osOgNQ5qMEC"
+
+# ---------------- 2015–2017 ----------------
+- title: "Exploring Audience Response in Performing Arts with a Brain-Adaptive Digital Performance System"
+  year: 2017
+  venue: "ACM Transactions on Interactive Intelligent Systems (TiiS)"
+  short: "ACM TiiS"
+  badge: badge4
+  type: Journal
+  kind: paper
+  authors: "**Shuo Yan**, Gangyi Ding, Hongsong Li, Ningxiao Sun, Zheng Guan, Yufeng Wu, Longfei Zhang, Tianyu Huang"
+  authors_short: "**S Yan**, G Ding, H Li, N Sun, Z Guan, Y Wu, L Zhang, T Huang"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:9yKSN-GCB0IC"
+  image: images/brain.png
+  desc: "A brain-adaptive digital performance system that monitors audience response through EEG and adapts the performance in real time, with a study of how audiences respond in performing arts."
+  selected_pub: true
+
+- title: "Enhancing Audience Engagement in Performing Arts through an Adaptive Virtual Environment with a Brain-Computer Interface"
+  year: 2016
+  venue: "ACM International Conference on Intelligent User Interfaces (IUI)"
+  short: "IUI 2016"
+  badge: badge
+  type: Conference
+  kind: paper
+  authors: "**Shuo Yan**, Gangyi Ding, Hongsong Li, Ningxiao Sun, Yufeng Wu, Zheng Guan, Longfei Zhang, Tianyu Huang"
+  authors_short: "**S Yan**, G Ding, H Li, N Sun, Y Wu, Z Guan, L Zhang, T Huang"
+  link: "https://dl.acm.org/doi/10.1145/2856767.2856768"
+  video: "https://www.youtube.com/watch?v=_nPOLL21Jh0"
+  image: images/brain.png
+
+- title: "OutsideMe: Augmenting Dancer's External Self-Image by Using a Mixed Reality System"
+  year: 2015
+  venue: "Extended Abstracts of the ACM CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2015"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors_short: "**S Yan**, G Ding, Z Guan, N Sun, H Li, L Zhang"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:u5HHmVD_uO8C"
+
+- title: "Cutting Edge Vision: Metal Embedded Optics for Smart Knives"
+  year: 2015
+  venue: "Extended Abstracts of the ACM CHI Conference on Human Factors in Computing Systems (CHI EA)"
+  short: "CHI 2015"
+  badge: badge
+  type: Extended Abstract
+  kind: paper
+  authors_short: "A Zoran, NW Gong, R Shilkrot, **S Yan**, P Maes"
+  link: "https://scholar.google.com/citations?view_op=view_citation&user=FZwensUAAAAJ&citation_for_view=FZwensUAAAAJ:d1gkVwhDpl0C"

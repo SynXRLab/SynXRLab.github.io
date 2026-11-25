@@ -157,3 +157,34 @@ h1:before, .anchor:before {
 
 
 
+
+/* ---- publications / works (data-driven) ---- */
+.pub-type {
+    background-color: #EEB4B4;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+.paper-box-text p { margin: 0 0 .4em 0; }
+.pub-authors { font-size: .95em; }
+.pub-venue { font-size: .9em; color: #555; }
+.more-link { margin: 1em 0 2em 0; font-weight: bold; }
+.pub-note { font-size: .85em; color: #666; }
+.pub-year { margin-top: 1.5em; border-bottom: 1px solid #efefef; }
+ul.pub-list { list-style: none; margin-left: 0; padding-left: 0; }
+li.pub-row { margin-bottom: 1em; line-height: 1.5; }
+.work-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.5em;
+    margin: 1em 0 2em 0;
+}
+.work-tile { font-size: .9em; }
+.work-thumb { position: relative; aspect-ratio: 5 / 3; overflow: hidden; background: #f3f3f3; box-shadow: 2px 2px 5px #aaa; }
+.work-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.work-thumb span { position: absolute; top: .5em; left: 0; margin: 0; z-index: 1; }
+.work-meta { padding-top: .6em; }
+.work-meta p { margin: .3em 0; }
+.work-title { font-weight: bold; line-height: 1.35; }
