@@ -157,7 +157,6 @@
   link: "https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1581&context=iasdr"
   image: images/matrix sheet.jpg
   desc: "We developed a co-design framework and applied it to a foot-based interaction project exploring habitual foot actions as natural inputs for virtual-physical switching experience."
-  selected_pub: true
 
 - title: "Exploring and Co-Designing Typical Collaborative Scenarios in Mixed Reality: A Role-Based Approach"
   year: 2025
@@ -171,6 +170,7 @@
   link: "https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1675&context=iasdr"
   image: images/mr.png
   desc: "We proposed a Role Interpretation Framework based on Dominance, Sociability and Task Orientation to capture and explain user roles in MR collaboration."
+  selected_pub: true
 
 # ---------------- 2024 ----------------
 - title: "Beyond Realities: Designing Cross-Reality Interactions in the Immersive Narrative Experience"
