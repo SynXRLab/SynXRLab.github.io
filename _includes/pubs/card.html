@@ -1,6 +1,6 @@
 {%- assign p = include.item -%}
 {%- assign img = p.image | default: 'images/500x300.png' | replace: ' ', '%20' -%}
-<div class='paper-box'><div class='paper-box-image'><div><div class="{{ p.badge | default: 'badge' }}">{{ p.short }}</div><img src='{{ '/' | append: img | relative_url }}' alt="{{ p.title | escape }}" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="{{ p.badge | default: 'badge' }}">{{ p.short }}</div><img src='{% if img contains '://' %}{{ img }}{% else %}{{ '/' | append: img | relative_url }}{% endif %}' alt="{{ p.title | escape }}" width="100%"></div></div>
 <div class='paper-box-text'>
 <p><span class="pub-type">{{ p.type }}</span>&nbsp;{% if p.link %}<a href="{{ p.link }}"><strong>{{ p.title }}</strong></a>{% else %}<strong>{{ p.title }}</strong>{% endif %}</p>
 <p class="pub-authors">{{ p.authors | default: p.authors_short | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
